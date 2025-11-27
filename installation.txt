@@ -1,0 +1,17 @@
+pandas
+requests
+beautifulsoup4
+mysql-connector-python
+numpy
+matplotlib
+seaborn
+plotly
+dash
+scikit-learn
+category-encoders
+imbalanced-learn
+streamlit
+jupyter
+user_agents
+geopy
+pipreqs
